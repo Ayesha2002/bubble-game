@@ -2,18 +2,18 @@
 
 A fun and interactive bubble-popping game built using web technologies.
 
-#🚀Live Demo
+# 🚀Live Demo
 
 Play the game here: [Bubble Game](https://bubble-game-o07uuxb97-ayesha2002s-projects.vercel.app)
 
 
-#🛠Technologies Used
+# 🛠Technologies Used
 `HTML`
 `CSS`
 `JavaScript`
 
 
-#🎮How to Play
+# 🎮How to Play
 
 - Start the game and bubbles will appear on the screen.
   
@@ -24,7 +24,7 @@ Play the game here: [Bubble Game](https://bubble-game-o07uuxb97-ayesha2002s-proj
 - Enjoy and challenge yourself to beat your high score!
 
   
-#📥Installation & Setup
+# 📥Installation & Setup
 
 If you'd like to run the game locally:
 
@@ -40,17 +40,19 @@ cd bubble-game
 3. Open `index.html` in your browser.
 
    
-#✨Features
+# ✨Features
 
 - Simple and engaging gameplay
 - Smooth animations
 - Interactive UI
 
   
-#📜License
+# 📜License
 
 This project is open-source and available under the  &copy; MIT [LICENSE](LICENSE.md)
 
-#🤝Contributing
+# 🤝Contributing
+
 Feel free to submit issues or pull requests to improve the game!
+
 `Happy Coding! ❤️`
